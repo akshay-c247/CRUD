@@ -1,0 +1,46 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Akshay",
+            "email": "xyz@gmail.com",
+            "contact": 12345678
+        },
+        {
+            "id": 2,
+            "name": "Akash",
+            "email": "xyz@gmail.com",
+            "contact": 12345678
+        },
+        {
+            "id": 3,
+            "name": "Nikhil",
+            "email": "xyz@gmail.com",
+            "contact": 12345678
+        },
+        {
+            "id": 4,
+            "name": "Rohit",
+            "email": "xyz@gmail.com",
+            "contact": 12345678
+        },
+        {
+            "id": 8,
+            "name": "suraj",
+            "email": "xyz@gmail.com",
+            "contact": 12345678
+        },
+        {
+            "id": 1,
+            "name": "suyash",
+            "email": "xyz@gmail.com",
+            "contact": 12345678
+        },
+        {
+            "id": 1,
+            "name": "Ritam",
+            "email": "xyz@gmail.com",
+            "contact": 12345678
+        }
+    ]
+}
